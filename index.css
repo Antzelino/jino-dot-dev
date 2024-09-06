@@ -434,7 +434,7 @@ label input {
 /* DEBUG UTILITIES */
 
 .debug .debug-grid {
-  --color: color-mix(in srgb, var(--text-color) 10%, var(--background-color) 90%);
+  --color: color-mix(in srgb, var(--text-color) 15%, var(--background-color) 85%);
   position: absolute;
   top: 0;
   left: 0;
