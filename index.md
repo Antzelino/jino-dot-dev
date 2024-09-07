@@ -11,23 +11,23 @@ version: v0.0.1
 
 ## Introduction
 
-My name is Angelino Mehmeti, but almost everyone calls me Jino, so you can, too.
+My name is Angelino Mehmeti, but almost everyone calls me Jino, so you can too.
 
 I've always had an interest and natural skill in computers and math and I've always liked to deepen my knowledge on anything.  
 I studied in university and got a BSc in Computer Science, and have been working in the field since 2019.
 
-I found this kind of format for setting up a website from somewhere on X (a.k.a. Twitter) which took me to [this GitHub repo](https://github.com/owickstrom/the-monospace-web).
+I found this kind of format for setting up a website from [Oskar Wickström](https://x.com/owickstrom) on X (a.k.a. Twitter) and I decided to try it out.
 
 I love it.
 
 <hr>
 
 ## Credits
+
 Thank you [Oskar Wickström](https://x.com/owickstrom) for creating this.  
 Github repo for The Monospace Web: [github.com/owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web)
 
 <!-- Comments
-
 Horizontal line break:
 <hr>
 
