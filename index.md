@@ -16,10 +16,6 @@ My name is Angelino Mehmeti, but almost everyone calls me Jino, so you can too.
 I've always had an interest and natural skill in computers and math and I've always liked to deepen my knowledge on anything.  
 I studied in university and got a BSc in Computer Science, and have been working in the field since 2019.
 
-I found this kind of format for setting up a website from [Oskar Wickström](https://x.com/owickstrom) on X (a.k.a. Twitter) and I decided to try it out.
-
-I love it.
-
 <hr>
 
 ## Credits
