@@ -24,7 +24,12 @@ I love it.
 
 ## Credits
 
-Thank you [Oskar Wickström](https://x.com/owickstrom) for creating this.  
+I found this kind of format for setting up a website on X (a.k.a. Twitter) and I decided to try it out.
+
+I love it.
+
+Thank you [Oskar Wickström](https://x.com/owickstrom) for creating this.
+
 Github repo for The Monospace Web: [github.com/owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web)
 
 <!-- Comments
