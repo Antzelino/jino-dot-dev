@@ -23,9 +23,11 @@
         in
         {
           default = pkgs.mkShell {
-            packages = [
-              pkgs.live-server
-              pkgs.pandoc
+            packages = with pkgs; [
+              live-server
+              pandoc
+              jq
+              gnumake
             ];
           };
         }
