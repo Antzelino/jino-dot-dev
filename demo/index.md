@@ -1,7 +1,7 @@
 ---
 title: jino.dev
 subtitle: Jino's personal website
-author: Angelino Mehmeti
+author: Angelino Storm
 author-url: "https://jino.dev"
 date: 2024-09-02
 lang: en
@@ -11,10 +11,10 @@ version: v0.0.1
 
 ## Introduction
 
-My name is Angelino Mehmeti, but almost everyone calls me Jino, so you can too.
+My name is Angelino Storm, but almost everyone calls me Jino, so you can too.
 
 I've always had an interest and natural skill in computers and math and I've always liked to deepen my knowledge on anything.
-I studied in university and got a BSc in Computer Science, and have been working in the field since 2018 except for 2020 when I was focusing on finishing my studies.
+I studied in university and got a BSc in Computer Science, and have been working in the field since 2019.
 
 <hr>
 

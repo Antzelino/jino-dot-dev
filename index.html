@@ -7,8 +7,8 @@
   <meta name="author" content="Angelino Storm" />
   <meta name="dcterms.date" content="2024-09-02" />
   <title>jino.dev</title>
-  <link rel="stylesheet" href="reset.css" />
-  <link rel="stylesheet" href="index.css" />
+  <link rel="stylesheet" href="src/reset.css" />
+  <link rel="stylesheet" href="src/index.css" />
 </head>
 <body>
 <table class="header">
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <th>Updated</th>
-    <td class="width-min"><time style="white-space: pre;">2025-01-25</time></td>
+    <td class="width-min"><time style="white-space: pre;">2025-03-18</time></td>
   </tr>
   <tr>
     <th class="width-min">Author</th>
@@ -121,7 +121,16 @@ Inputs:
 <label>Age <input type="text" placeholder="Type age here..." value="30" /></label>
 </form>
 
-Horizontal Grid:
+And radio buttons:
+
+<form class="grid">
+<label><input name="radio" type="radio" /> Option #1</label>
+<label><input name="radio" type="radio" /> Option #2</label>
+<label><input name="radio" type="radio" /> Option #3</label>
+</form>
+
+## Grids
+
 Add the `grid` class to a container to divide up the horizontal space evenly for the cells.
 Note that it maintains the monospace, so the total width might not be 100%.
 Here are six grids with increasing cell count:
