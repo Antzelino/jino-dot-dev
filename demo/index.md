@@ -25,15 +25,34 @@ I understood that probably having a whole database and having whatever running o
 
 So I started with the most basic thing I could think of. A website that counts how many times the button has been clicked (since the latest deployment of the backend, because I didn’t want to store a file with the number, I was fine having the number just saved in the process’ memory and reset when I kill the process and build/compile/run it again).
 
-And so I did, and I’m running the “backend” on my home PC and the website is deployed here:  
+And so I did, and I’m running the “backend” on my home PC and the website is deployed here:
+
 [https://jino-click-app-poc.netlify.app](https://jino-click-app-poc.netlify.app)
 
 ### The second idea
-I was playing League of Legends with my buddy from Greece, Apostolis. And we like to play the Arena and ARAM: Mayhem modes, but depending on what augments you get there's different items with different buffs and stats that will work best with your kit. So I wanted to search items that give to your champion Energized Attacks, and searching in the items for "energized" didn't show anything. So, I thought, why don't I just use an LLM to build a good search for me for League of Legends items, which doesn't depend only on the item's name and maybe a few more stats, but something like "energized" would also give me the items that give Energized Attacks to your champion, and whatever else I'd figure out down the road. And so this was made:  
+I was playing League of Legends with my buddy from Greece, Apostolis. And we like to play the Arena and ARAM: Mayhem modes, but depending on what augments you get there's different items with different buffs and stats that will work best with your kit.
+
+So I wanted to search items that give to your champion Energized Attacks, and searching in the items for "energized" didn't show anything.
+
+So, I thought, why don't I just use an LLM to build a good search for me for League of Legends items, which doesn't depend only on the item's name and maybe a few more stats, but something like "energized" would also give me the items that give Energized Attacks to your champion, and whatever else I'd figure out down the road.
+
+And so this was made:
+
 [https://jino-lol-item-better-search.netlify.app](https://jino-lol-item-better-search.netlify.app)
 
 ### The genuinely useful idea
-I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do know so I'd make panic choices which were bad or no choice which is maybe even worse. I just need to know the different kinds of plays that exist, and since I have always been extremely bad with my memory I would hear a specific name of a play we want to do and I'd try to get them to explain it to me again, but of course the training needs to keep going, so I'd get some sentences or words, and then we have to move, and then we find a few seconds again, and so I'd still be stuck and get nowhere (unless I take some time out of practice I guess, and ask someone to take their time to help me out etc). This got me thinking, why don't I just create the play in some way, with some kind of rugby UI so I can see everything and understand why this play is the one that's happening in this scenario, and what everyone should do. The best solution to me seemed to be an app where I can place players and create an "animation" in a way, out of some keyframes, where each keyframe basically puts a player somewhere and the ball somewhere, nothing else is really needed. I can create the whole play in there, see the ball being passsed, see where each player goes and why play A or play B helps with scoring a try. Eventually I want to be able to save different plays and name them, but what I have now is decent quality, without breaking easily, and I like how it's going (maybe by the time someone's reading this I've already updated the app to be better, who knows). You may have noticed I've been using only Netlify to deploy them, it just seems so convenient! I only drag and drop a folder with a single \`index.html\` file or something and there it is, a website available for the whole internet (and it works well for mobile too!):  
+I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do know so I'd make panic choices which were bad or no choice which is maybe even worse.
+
+I just need to know the different kinds of plays that exist, and since I have always been extremely bad with my memory I would hear a specific name of a play we want to do and I'd try to get them to explain it to me again, but of course the training needs to keep going, so I'd get some sentences or words, and then we have to move, and then we find a few seconds again, and so I'd still be stuck and get nowhere (unless I take some time out of practice I guess, and ask someone to take their time to help me out etc).
+
+This got me thinking, why don't I just create the play in some way, with some kind of rugby UI so I can see everything and understand why this play is the one that's happening in this scenario, and what everyone should do.
+
+The best solution to me seemed to be an app where I can place players and create an "animation" in a way, out of some keyframes, where each keyframe basically puts a player somewhere and the ball somewhere, nothing else is really needed. I can create the whole play in there, see the ball being passsed, see where each player goes and why play A or play B helps with scoring a try.
+
+Eventually I want to be able to save different plays and name them, but what I have now is decent quality, without breaking easily, and I like how it's going (maybe by the time someone's reading this I've already updated the app to be better, who knows).
+
+You may have noticed I've been using only Netlify to deploy them, it just seems so convenient! I only drag and drop a folder with a single \`index.html\` file or something and there it is, a website available for the whole internet (and it works well for mobile too!):
+
 [https://antzelino.github.io/rugby-play-builder](https://antzelino.github.io/rugby-play-builder)
 
 Edit: Well, I changed it to GitHub Pages and I likely will change all the other ones too, hehe. Netlify has a limit of deploys/changes per month, and so I hit my limit and all my projects were down for a while. Not fun.
