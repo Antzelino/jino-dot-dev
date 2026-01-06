@@ -3,9 +3,9 @@ title: jino.dev
 subtitle: Jino's personal website
 author: Angelino Storm
 author-url: "https://jino.dev"
-date: 2024-09-02
+date: 2026-01-06
 lang: en
-toc-title: Contents
+toc-title: TABLE OF CONTENTS
 version: v0.2.0
 ---
 
