@@ -19,7 +19,13 @@ I studied in university and got a BSc in Computer Science, and have been working
 ## Personal projects
 
 ### Premise & the first idea
-So, recently I had been playing more and more with LLMs and coding together with some kind of AI agent and I figured it was very easy to start something with them. I had some small ideas here and there so I thought "How could I make this accessible for the world to use, perhaps without any cost at all even? Maybe there's services that offer something basic for free?". I understood that probably having a whole database and having whatever running on some backend would definitely come with a cost. So then I thought "Could I deploy somewhere for free a \*static\* website, but it actually communicates with some endpoint where a backend is running doing all the \*heavy\* work?". So I started with the most basic thing I could think of. A website that counts how many times the button has been clicked (since the latest deployment of the backend, because I didn't want to store a file with the number, I was fine having the number just saved in the process' memory and reset when I kill the process and build/compile/run it again). And so I did, and I'm running the "backend" on my home PC and the website is deployed here:  
+So, recently I had been playing more and more with LLMs and coding together with some kind of AI agent and I figured it was very easy to start something with them. I had some small ideas here and there so I thought “How could I make this accessible for the world to use, perhaps without any cost at all even? Maybe there’s services that offer something basic for free?”.
+
+I understood that probably having a whole database and having whatever running on some backend would definitely come with a cost. So then I thought “Could I deploy somewhere for free a *static* website, but it actually communicates with some endpoint where a backend is running doing all the *heavy* work?”.
+
+So I started with the most basic thing I could think of. A website that counts how many times the button has been clicked (since the latest deployment of the backend, because I didn’t want to store a file with the number, I was fine having the number just saved in the process’ memory and reset when I kill the process and build/compile/run it again).
+
+And so I did, and I’m running the “backend” on my home PC and the website is deployed here:  
 [https://jino-click-app-poc.netlify.app](https://jino-click-app-poc.netlify.app)
 
 ### The second idea
