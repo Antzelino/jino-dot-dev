@@ -9,16 +9,16 @@ toc-title: Contents
 version: v0.0.1
 ---
 
-## Introduction
+# Introduction
 
 My name is Angelino Storm, but almost everyone calls me Jino, so you can too.
 
 I've always had an interest and natural skill in computers and math and I've always liked to deepen my knowledge on anything.
 I studied in university and got a BSc in Computer Science, and have been working in the field since 2019.
 
-## Personal projects
+# Personal projects
 
-### Premise & the first idea
+## Premise & the first idea
 So, recently I had been playing more and more with LLMs and coding together with some kind of AI agent and I figured it was very easy to start something with them. I had some small ideas here and there so I thought “How could I make this accessible for the world to use, perhaps without any cost at all even? Maybe there’s services that offer something basic for free?”.
 
 I understood that probably having a whole database and having whatever running on some backend would definitely come with a cost. So then I thought “Could I deploy somewhere for free a *static* website, but it actually communicates with some endpoint where a backend is running doing all the *heavy* work?”.
@@ -29,7 +29,7 @@ And so I did, and I’m running the “backend” on my home PC and the website 
 
 [https://jino-click-app-poc.netlify.app](https://jino-click-app-poc.netlify.app)
 
-### The second idea
+## The second idea
 I was playing League of Legends with my buddy from Greece, Apostolis. And we like to play the Arena and ARAM: Mayhem modes, but depending on what augments you get there's different items with different buffs and stats that will work best with your kit.
 
 So I wanted to search items that give to your champion Energized Attacks, and searching in the items for "energized" didn't show anything.
@@ -40,7 +40,7 @@ And so this was made:
 
 [https://jino-lol-item-better-search.netlify.app](https://jino-lol-item-better-search.netlify.app)
 
-### The genuinely useful idea
+## The genuinely useful idea
 I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do know so I'd make panic choices which were bad or no choice which is maybe even worse.
 
 I just need to know the different kinds of plays that exist, and since I have always been extremely bad with my memory I would hear a specific name of a play we want to do and I'd try to get them to explain it to me again, but of course the training needs to keep going, so I'd get some sentences or words, and then we have to move, and then we find a few seconds again, and so I'd still be stuck and get nowhere (unless I take some time out of practice I guess, and ask someone to take their time to help me out etc).
@@ -58,7 +58,7 @@ You may have noticed I've been using only Netlify to deploy them, it just seems 
 Edit: Well, I changed it to GitHub Pages and I likely will change all the other ones too, hehe. Netlify has a limit of deploys/changes per month, and so I hit my limit and all my projects were down for a while. Not fun.
 <hr>
 
-## Credits
+# Credits
 
 I found this kind of format for setting up a website on X (a.k.a. Twitter) and I decided to try it out.
 
@@ -149,7 +149,7 @@ And radio buttons:
 <label><input name="radio" type="radio" /> Option #3</label>
 </form>
 
-## Grids
+# Grids
 
 Add the `grid` class to a container to divide up the horizontal space evenly for the cells.
 Note that it maintains the monospace, so the total width might not be 100%.
@@ -211,7 +211,7 @@ Let's go wild and draw a chart!
       Socks     Jeans     Shirts   USB Drives
 </pre></figure>
 
-## Media
+# Media
 
 Media objects are supported, like images and video:
 
