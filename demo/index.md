@@ -6,7 +6,7 @@ author-url: "https://jino.dev"
 date: 2024-09-02
 lang: en
 toc-title: Contents
-version: v0.0.1
+version: v0.2.0
 ---
 
 # Introduction
