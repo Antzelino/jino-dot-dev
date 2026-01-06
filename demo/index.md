@@ -28,7 +28,7 @@ So I started with the most basic thing I could think of. A website that counts h
 And so I did, and I’m running the “backend” on my home PC and the website is deployed here:
 
 [https://jino-click-app-poc.netlify.app](https://jino-click-app-poc.netlify.app)
-
+<hr>
 ## The second idea
 I was playing League of Legends with my buddy from Greece, Apostolis. And we like to play the Arena and ARAM: Mayhem modes, but depending on what augments you get there's different items with different buffs and stats that will work best with your kit.
 
@@ -39,7 +39,7 @@ So, I thought, why don't I just use an LLM to build a good search for me for Lea
 And so this was made:
 
 [https://jino-lol-item-better-search.netlify.app](https://jino-lol-item-better-search.netlify.app)
-
+<hr>
 ## The genuinely useful idea
 I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do know so I'd make panic choices which were bad or no choice which is maybe even worse.
 
