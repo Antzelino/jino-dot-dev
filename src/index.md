@@ -5,7 +5,7 @@ author: Angelino Storm
 author-url: "https://jino.dev"
 date: 2026-01-06
 lang: en
-toc-title: TABLE OF CONTENTS
+toc-title: Contents
 version: v0.2.0
 ---
 
