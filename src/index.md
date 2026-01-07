@@ -41,7 +41,7 @@ And so this was made:
 [https://jino-lol-item-better-search.netlify.app](https://jino-lol-item-better-search.netlify.app)
 <hr>
 ## The genuinely useful idea
-I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do know so I'd make panic choices which were bad or no choice which is maybe even worse.
+I've been going for rugby training twice a week with my buddy Keegan, and the coaches are good, but I'm not fast and I've never known anything about rugby before joining the boys here. So, they would mention different kinds of plays, and why we want this or that to happen and I'd always feel lost, and I've no idea what I'm doing, and I'm in a situation and I don't know what I should do now so I'd make panic choices which were bad or no choice which is maybe even worse.
 
 I just need to know the different kinds of plays that exist, and since I have always been extremely bad with my memory I would hear a specific name of a play we want to do and I'd try to get them to explain it to me again, but of course the training needs to keep going, so I'd get some sentences or words, and then we have to move, and then we find a few seconds again, and so I'd still be stuck and get nowhere (unless I take some time out of practice I guess, and ask someone to take their time to help me out etc).
 
@@ -223,3 +223,4 @@ They extend to the width of the page, and add appropriate padding in the bottom 
 ![A room in an old French castle (2024)](castle.jpg)
 ![[The Center of the Web (1914), Wikimedia](https://en.wikisource.org/wiki/Page:The_Center_of_the_Web_(1914).webm/11)](https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Center_of_the_Web_%281914%29.webm)
 -->
+
